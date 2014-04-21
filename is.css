@@ -3,7 +3,12 @@ body {
 	font-size: 3.0em;
 }
 
+#wrapper {
+	padding-top: 150px;
+}
+
 h1 {
 	text-align: center;
-	margin-top: 200px;
+	margin: 0;
+	padding-bottom: 200px;
 }
